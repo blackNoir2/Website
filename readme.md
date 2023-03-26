@@ -1,7 +1,7 @@
 My Project Showcase Website
 
 
-Hi there! My name is Egibe, and I created this website to showcase my various projects. I used HTML, CSS, and JavaScript to build this website from scratch, including the use of flex boxes and JavaScript to open and close divs. I am excited to share it with you.
+Hi there! My name is Egbie, and I created this website to showcase my various projects. I used HTML, CSS, and JavaScript to build this website from scratch, including the use of flex boxes and JavaScript to open and close divs. I am excited to share it with you.
 
 
 
